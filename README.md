@@ -1,5 +1,6 @@
 # Rabadan_Tomer2022
 Code associated with Rabadan et al 2022
+https://www.nature.com/articles/s41467-022-31073-1
 
 
 Python code for Calcium imaging data analysis
